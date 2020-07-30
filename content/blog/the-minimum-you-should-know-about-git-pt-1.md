@@ -8,7 +8,7 @@ tags:
 ---
 Hey guys. 
 
-So, for my first post, I want to talk with you about git control version. I know many peoples don't know what is git, The most people and friends are from college, I hope that help you to understand what is "git" and its purpose. 
+So, for my first post, I want to talk with you about git control version. I know many people don't know what is git, The most people and friends are from college, I hope that help you to understand what is "git" and its purpose. 
 
 Git, it's a distributed version control system. That's okay, but what this means, right? This means what git take care of the state of your files. It tracks any change in your crawled archive.
 
