@@ -1,7 +1,7 @@
 ---
 author: Gabriel Bussolo
 date: "2019-12-07"
-title: Setting up a Jakarta EE development enviroment with SDKMAN, Eclipse and TomEE
+title: Setting up a Jakarta EE development enviroment with SDKMAN, Eclipse and TomEE MP
 tags: 
     - java
     - jakarta ee
