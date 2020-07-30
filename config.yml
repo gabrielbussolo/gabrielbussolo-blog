@@ -1,0 +1,23 @@
+baseURL: https://gabrielbussolo.dev/
+title: Gabriel Ferreira
+languageCode: en-us
+DefaultContentLanguage: en
+theme: hugo-paper
+googleAnalytics: UA-116316537-1
+disqusShortname: gabrielbussolo
+enableEmoji: true
+params:
+  author: Gabriel Bussolo
+  description: Descrição do site
+menu:
+  main:
+    - identifier: about
+      name: about  
+      url: /about/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  pt-br:
+    languageName: Português Brasileiro
+    weight: 2
