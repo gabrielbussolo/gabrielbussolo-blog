@@ -6,7 +6,7 @@ tags:
     - git
     - beginner
 ---
-Hey guys. 
+Hey folks. 
 
 So, for my first post, I want to talk with you about git control version. I know many people don't know what is git, The most people and friends are from college, I hope that help you to understand what is "git" and its purpose. 
 
@@ -44,7 +44,7 @@ Are you see? It says *"hey man your file was changed would you want to track thi
 type ```git log``` and see.
 ![terminal](../../post-images/the-minimum-you-should-know-about-git-pt-1/git-log-2.png)
 
-cool guys, we have now two commits, but... What is the purpose of this?
+cool, we have now two commits, but... What is the purpose of this?
 Let's say you want to know what the differences between your two commits (so many lines, you don't remember haha). With that registers in the time in form of commits we can compare versions of out file in the time with ```git diff``` command for example, for this we need the unique code of two commits (we get this with ```git log```):
 ![terminal](../../post-images/the-minimum-you-should-know-about-git-pt-1/git-diff.png)
 
@@ -54,7 +54,7 @@ Don't worry, if we do a shit but we know the last commit work, we can do a git `
 
 See the git log we have one commit from the beginning and the command cat shows what have in our file. Our first version with just "Hello Git!".
 
-So, guys, I hope this helps you to understand the extremely basic of git. This is the part one I will write a part two, with git branch and merge. If you have some question, please leave a comment, I will be happy to ask questions.
+So, I hope this helps you to understand the extremely basic of git. This is the part one I will write a part two, with git branch and merge. If you have some question, please leave a comment, I will be happy to ask questions.
 
 ps: This is the first time I write an article in English, I sure I've killed the grammar. If you want to help me correcting something you can fork <a href="https://github.com/gabrielbussolo/gabrielbussolo-blog/blob/master/content/blog/the-minimum-you-should-know-about-git-pt-1.md" markdown="1" target="_blank">this article</a> on my GitHub and correct or just leave a comment for help me. 
 

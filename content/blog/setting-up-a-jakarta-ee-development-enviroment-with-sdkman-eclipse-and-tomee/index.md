@@ -1,13 +1,13 @@
 ---
 author: Gabriel Bussolo
-date: "2020-01-29"
-title: Setting up a Jakarta EE development enviroment with SDKMAN, Eclipse and TomEE MP
+date: "2020-07-29"
+title: Setting Up a Jakarta EE Development Environment with SDKMAN, Eclipse IDE and TomEE MicroProfile
 tags: 
     - java
     - jakarta ee
     - beginner
 ---
-What's up, guys?!
+What's up, folks?!
 
 So, in this post, I want to show you how to set up a Jakarta EE development in a clean Linux (Ubuntu) installation. We will set up Java and Maven from a version manager tool called SDKMAN, the Eclipse IDE and the TomEE Application Server.
 
